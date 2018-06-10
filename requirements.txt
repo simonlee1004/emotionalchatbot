@@ -1,0 +1,16 @@
+# EmotionalChatBot.py: 4
+Pillow == 5.0.0
+
+# EmotionalChatBot.py: 7
+SpeechRecognition == 3.8.1
+
+# EmotionalChatBot.py: 8
+gTTS == 1.2.2
+
+# EmotionManager.py: 3,4
+# Test/Test8.py: 2,3,4
+matplotlib == 2.1.1
+
+# IntentAnalysis.py: 1,2
+# LanguageProcess.py: 1,2
+nltk == 3.2.1
