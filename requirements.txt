@@ -13,4 +13,4 @@ matplotlib == 2.1.1
 
 # IntentAnalysis.py: 1,2
 # LanguageProcess.py: 1,2
-nltk == 3.2.1
+nltk == 3.4.5
