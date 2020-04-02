@@ -1,5 +1,5 @@
 # EmotionalChatBot.py: 4
-Pillow == 5.0.0
+Pillow == 6.2.2
 
 # EmotionalChatBot.py: 7
 SpeechRecognition == 3.8.1
